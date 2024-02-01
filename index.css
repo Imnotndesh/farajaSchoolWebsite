@@ -42,6 +42,8 @@ body{
     font-family:'schoolNameCustom';
     font-size: 25px;
     font-weight: bold;
+    color: rgb(0, 60, 83);
+    text-decoration: underline;
 }
 .mainHeaderText{
     text-decoration: none;
